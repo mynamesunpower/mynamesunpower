@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 1. 🔭 현재 재직 중: E4net (Web Developer)
-2. 🌱 현재 공부 중: 정보처리기사(~7/10), React, TypeScript, GraphQL
+2. 🌱 현재 공부 중: Vanilla JS, React, TypeScript, GraphQL
 3. 👯 사이드 프로젝트 1 - 기사 for 정보처리기사 
 4. 💬 Contact Me: harudamgi@naver.com
-5. ⚡
+5. ⚡ : 2021-2회차 정보처리기사 필기, 실기 합격 예정
