@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 1. 🔭 현재 재직 중: E4net (Web Developer)
-2. 🌱 현재 공부 중: Vanilla JS, React, TypeScript, GraphQL
+2. 🌱 현재 공부 중: AWS EC2, S3, travis CI
 3. 👯 사이드 프로젝트 1 - 기사 for 정보처리기사 
 4. 💬 Contact Me: harudamgi@naver.com
-5. ⚡ : 2021-2회차 정보처리기사 필기, 실기 합격 예정
+5. ⚡ 정보처리기사 (2021)
