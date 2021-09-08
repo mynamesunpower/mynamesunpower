@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## 김태양입니다.
+## 김태양
 
 <!--
 **mynamesunpower/mynamesunpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-1. 🔭 현재 재직 중: E4net (Web Developer)
-2. 🌱 현재 공부 중: AWS EC2, S3, travis CI
-3. 👯 사이드 프로젝트 1 - 기사 for 정보처리기사 
-4. 💬 Contact Me: harudamgi@naver.com
-5. ⚡ 정보처리기사 (2021)
+E4net (Web Developer)
+Wannabe a full-stack dev
+harudamgi@naver.com
