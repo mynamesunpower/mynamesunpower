@@ -16,17 +16,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Contact: harudamgi@naver.com
-- 프론트엔드 개발자가 꿈이지만, 일단 뭐든 먹겠습니다.
+- 프론트엔드 개발자가 되고 싶습니다!!!!! I LOVE JAVASCRIPT WORLDS!!!!! 배움을 멈추지 않습니다!!!!! 
 ```js
-const myself = {
+const I = {
   name: '김태양',
   age: 31
 }
-let until_I_die = life_is_A_random_box(myself);
-for (let 개발실력 = 5; myself.age < until_I_die; 개발실력 += 1) {
-    console.warn('나는 가짜다!');
-    wannaEat(Food.wholeList());
+
+let 내가_바스라질_때 = letsGo(myself);
+
+for ( ; I.age < 내가_바스라질_때; ) {
+    console.warn('나는 가짜 개발자다!');
+    
+    wannaEat(Food.wholeList()); // TODO 제거
     //wannaSleep();
+    
     mustStudy();
+    I.age += 1;
 }
 
